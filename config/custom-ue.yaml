@@ -1,4 +1,5 @@
 # IMSI number of the UE. IMSI = [MCC|MNC|MSISDN] (In total 15 digits)
+test
 supi: 'imsi-286010000000001'
 # Mobile Country Code value of HPLMN
 mcc: '286'
